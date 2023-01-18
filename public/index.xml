@@ -2,24 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>sjha2048.github.io/</link>
+    <link>https://sjha2048.github.io/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="sjha2048.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Built with ❤️ by [sjha2048](https://github.com/sjha2048) using [charlolamode](https://github.com/charlola/hugo-theme-charlolamode)</copyright><atom:link href="https://sjha2048.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math Braintrainer</title>
-      <link>sjha2048.github.io/projects/math-brain-trainer/</link>
+      <link>https://sjha2048.github.io/projects/math-brain-trainer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sjha2048.github.io/projects/math-brain-trainer/</guid>
+      <guid>https://sjha2048.github.io/projects/math-brain-trainer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surprise Surprise</title>
-      <link>sjha2048.github.io/articles/article/</link>
+      <link>https://sjha2048.github.io/articles/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sjha2048.github.io/articles/article/</guid>
+      <guid>https://sjha2048.github.io/articles/article/</guid>
       <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
     </item>
     
