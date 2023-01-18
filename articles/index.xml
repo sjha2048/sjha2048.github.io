@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on</title><link>https://sjha2048.github.io/articles/</link><description>Recent content in Articles on</description><generator>Hugo -- gohugo.io</generator><copyright>Built with ❤️ by [sjha2048](https://github.com/sjha2048) using [charlolamode](https://github.com/charlola/hugo-theme-charlolamode)</copyright><atom:link href="https://sjha2048.github.io/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Surprise Surprise</title><link>https://sjha2048.github.io/articles/article/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sjha2048.github.io/articles/article/</guid><description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on charlola.mode</title>
+    <link>https://sjha2048.github.io/articles/</link>
+    <description>Recent content in Articles on charlola.mode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Built with ❤️ by [sjha2048](https://github.com/sjha2048) using [charlolamode](https://github.com/charlola/hugo-theme-charlolamode)</copyright><atom:link href="https://sjha2048.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprise Surprise</title>
+      <link>https://sjha2048.github.io/articles/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjha2048.github.io/articles/article/</guid>
+      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
+    </item>
+    
+  </channel>
+</rss>
