@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on straystream</title>
     <link>https://sjha2048.github.io/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on straystream</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Built with ❤️ by [sjha2048](https://github.com/sjha2048) using [charlolamode](https://github.com/charlola/hugo-theme-charlolamode)</copyright><atom:link href="https://sjha2048.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -42,15 +42,9 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Sahil Jha
-        description: |
-
-          Hello, I am Sahil.
-           I am a software engineer. 
-        
-
-          having strong foundation in computer science and a love for solving complex problems and experimenting with new technologies.
-        imageUrl: "/images/profile.png"
+        title: Sahil Jha, 👋
+        description: Software Engineer, GSoC Mentor, GSoC'20 alum, 2x Azure Certified
+        imageUrl: "/images/profile_image.gif"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
